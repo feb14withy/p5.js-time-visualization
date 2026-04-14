@@ -16,7 +16,7 @@ const ALL_RINGS_GROWTH_FACTOR = 5;
 const ALL_RINGS_MOVEMENT_FACTOR = 3;
 
 function setup() {
-  createCanvas(4800, 900);
+  createCanvas(1920, 1080);
 
   ringGraphicsObject = createGraphics(width, height);
   //create the array for the ring objects
